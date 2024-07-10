@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working in IT<br>📚 I'm currently learning ...</p>
+<p align="left">✨ Working in IT<br>📚 I'm currently learning MySQL</p>
 
 ###
 
