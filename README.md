@@ -1,8 +1,8 @@
-<h1 align="left">👋Hey, I'm Nokkback from Germany</h1>
+<h1 align="left">👋Hey, I'm Nokkback</h1>
 
 ###
 
-<p align="left">🖥️ I'm a Systemadministrator, hobby Backend Developer and Webdesigner</p>
+<p align="left">🖥️ I'm a Systemadministrator, hobby Backend Developer and Webdesigner from Germany</p>
 
 ###
 
